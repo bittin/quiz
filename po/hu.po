@@ -5,7 +5,7 @@
 # Andras Kovacs <andras0602@gmail.com>, 2026.
 # István Szabó <istvanszabo890629@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-06-23 06:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.6.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-07-05 12:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2609,97 +2609,110 @@ msgid "Protective footwear"
 msgstr "Munkavédelmi cipő"
 
 msgid "A sword for protection of the mainframe"
-msgstr ""
+msgstr "Egy kard, amely a mainframe-t hivatott védelmezni"
 
 msgid "A white helmet with IBM on it"
-msgstr ""
+msgstr "Egy fehér sisak, amin az áll: IBM"
 
 msgid "SLES 16 in Numbers"
-msgstr ""
+msgstr "SLES 16 számokkal kifejezve"
 
 msgid "For all geekos who like numbers. All numbers were taken on FCS date - Nov 4 2025 11:38."
-msgstr ""
+msgstr "Minden számrajongó geek számára. Az összes adatot az FCS napján – 2025. november 4-én 11:38-kor – rögzítették."
 
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
-msgstr ""
+msgstr "Hány nyelven érhető el az SLES 16 dokumentációja (a felhasználói felület fordításait nem számítva)?"
 
+#, fuzzy
 msgid "7"
-msgstr ""
+msgstr "7"
 
+#, fuzzy
 msgid "16"
-msgstr ""
+msgstr "16"
 
+#, fuzzy
 msgid "42"
-msgstr ""
+msgstr "42"
 
 msgid "Just one: German!"
-msgstr ""
+msgstr "Csak egy: német!"
 
 msgid "How many features have been reported against SLES + SAP 16.0? "
-msgstr ""
+msgstr "Hány hibát jelentettek be az SLES + SAP 16.0 kapcsán? "
 
+#, fuzzy
 msgid "1099"
-msgstr ""
+msgstr "1099"
 
 msgid "404 – features not found"
-msgstr ""
+msgstr "404 – nem található funkciók"
 
 msgid "9999 – we lost count"
-msgstr ""
+msgstr "9999 – elvesztettük a fonalat"
 
 msgid "How many of those features were resolved in 16.0?"
-msgstr ""
+msgstr "Ezek közül hány funkciót oldottak meg a 16.0-s verzióban?"
 
+#, fuzzy
 msgid "798"
-msgstr ""
+msgstr "798"
 
+#, fuzzy
 msgid "789"
-msgstr ""
+msgstr "789"
 
+#, fuzzy
 msgid "123"
-msgstr ""
+msgstr "123"
 
+#, fuzzy
 msgid "666"
-msgstr ""
+msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
-msgstr ""
+msgstr "Mikor ér véget az SLES 16.0 LTS-támogatása?"
 
+#, fuzzy
 msgid "2030"
-msgstr ""
+msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
-msgstr ""
+msgstr "Soha – örökkévaló mint a systemd"
 
+#, fuzzy
 msgid "2029"
-msgstr ""
+msgstr "2029"
 
+#, fuzzy
 msgid "2032"
-msgstr ""
+msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
-msgstr ""
+msgstr "Hány tényleges hibát javítottak ki az SLES 16.0-ban?"
 
+#, fuzzy
 msgid "999"
-msgstr ""
+msgstr "999"
 
 msgid "0, because it’s perfect"
-msgstr ""
+msgstr "0, mert tökéletes"
 
 msgid "Too many to fit in Bugzilla"
-msgstr ""
+msgstr "Annyira sok, hogy már a Bugzilla sem bírja"
 
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
-msgstr ""
+msgstr "Jelenleg hány nyitott P1-es hibát követnek nyomon az SLES + SAP 16.0 esetében?"
 
+#, fuzzy
 msgid "11"
-msgstr ""
+msgstr "11"
 
 msgid "1 – we’re almost there!"
-msgstr ""
+msgstr "1 – majdnem megvagyunk!"
 
 msgid "0, No P1 shall pass RC!"
-msgstr ""
+msgstr "0, itt egyetlen P1-es juthat át az RC-n keresztül!"
 
 msgid "When can we expect SLES 16.1 to be released?"
 msgstr ""
