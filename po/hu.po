@@ -5,7 +5,7 @@
 # Andras Kovacs <andras0602@gmail.com>, 2026.
 # István Szabó <istvanszabo890629@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-07-05 12:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-07-20 20:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -2715,46 +2715,50 @@ msgid "0, No P1 shall pass RC!"
 msgstr "0, itt egyetlen P1-es juthat át az RC-n keresztül!"
 
 msgid "When can we expect SLES 16.1 to be released?"
-msgstr ""
+msgstr "Mikor várható az SLES 16.1 kiadása?"
 
 msgid "November 3rd 2026"
-msgstr ""
+msgstr "2026. november 3."
 
 msgid "June 16th, 2026"
-msgstr ""
+msgstr "2026. július 16."
 
 msgid "4th of July 2026"
-msgstr ""
+msgstr "2026. július 4."
 
 msgid "30th February 2026"
-msgstr ""
+msgstr "2026. február 30."
 
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
-msgstr ""
+msgstr "Melyik slfo git-branch felel meg az SLES 16.0 karbantartási frissítéseinek?"
 
+#, fuzzy
 msgid "slfo-1.2 "
-msgstr ""
+msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
-msgstr ""
+msgstr "devel branch a src.opensuse.org/pool oldalon"
 
+#, fuzzy
 msgid "slfo-main"
-msgstr ""
+msgstr "slfo-main"
 
+#, fuzzy
 msgid "slfo-1.0"
-msgstr ""
+msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
-msgstr ""
+msgstr "Hány, az SLES 16.0-ban kiadott csomagnak nincs hozzárendelt karbantartója?"
 
+#, fuzzy
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "Thousands of packages in coldpool"
-msgstr ""
+msgstr "Több ezer csomag került hűtőbe"
 
 msgid "All of them. Maintainers are overrated"
-msgstr ""
+msgstr "Egyiknek sincs. A karbantartók túlértékeltek"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
 msgstr ""
